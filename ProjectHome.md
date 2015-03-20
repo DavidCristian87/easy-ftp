@@ -1,0 +1,1 @@
+Implement an easy to use FTP client for Windows phone, with SFTP and FTPS features, as well as an integrated HTML editor.
